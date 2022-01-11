@@ -1,0 +1,54 @@
+
+.p4{
+	width:100%;
+	font-family:snell roundhand;
+	text-align:center;
+	font-weight:1000;
+	font-style:oblique;
+	font-size:25px;
+	
+}
+.bigbox{
+	margin:40px;
+	
+	border:20px solid red;
+
+	border-image:url('border.png')30 round;
+	border-left-width:30px;
+	border-image-slice:8%;
+	
+}
+.p1{text-align:left;
+font-family:courier new;
+font-size:15px;
+margin:0;
+}
+.p2{color:black;
+	font-size:15px;
+	text-align:console;
+		
+		margin:0;
+}
+	
+.p3{
+	
+	font-size:15px;
+	
+	font-family:copperplate;
+	margin:0;
+}
+
+#border{
+
+	
+padding:20px;
+}
+.center{
+	margin-left:100px;
+}
+#services_offered{
+	margin-top:20px;
+	padding:5px;
+	text-align:center;
+	
+}
